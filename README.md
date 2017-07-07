@@ -1,5 +1,6 @@
 # Tacotron_pytorch
 Pytorch implementation of Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model
+
 https://arxiv.org/abs/1703.10135
 
 ## Requirements
@@ -8,8 +9,11 @@ https://arxiv.org/abs/1703.10135
 
 ## Data
 Please register to use Blizzard Challenge data set. (http://www.cstr.ed.ac.uk/projects/blizzard/)
+
 In the code, the option 'blizzard' used the data of 2013, and the option 'nancy' used the data of 2011.
+
 You need to download and unzip the data from the website.
+
 Then, set paths in the codes (train.py, preprocess.py, generate.py) accordingly. (find 'dir_' and change the following lines)
 
 ## How to run
@@ -21,4 +25,5 @@ Then, set paths in the codes (train.py, preprocess.py, generate.py) accordingly.
 
 ## Comment
 This code may have bugs.
+
 Contributions and comments are always welcomed.
