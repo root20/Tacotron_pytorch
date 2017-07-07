@@ -24,6 +24,4 @@ Then, set paths in the codes (train.py, preprocess.py, generate.py) accordingly.
 
 
 ## Comment
-This code may have bugs.
-
 Contributions and comments are always welcomed.
