@@ -13,10 +13,11 @@ You need to download and unzip the data from the website.
 Then, set paths in the codes (train.py, preprocess.py, generate.py) accordingly. (find 'dir_' and change the following lines)
 
 ## How to run
+  * Please refer the code to see what options/hyperparameters are available
 1. Prepare data and preprocess the data (ex. blizzard) by running: preprocess.py --data 'blizzard'
 2. Run 'train.py' with arguments.
 3. After training, run 'generate.py' with arguments to get generated audio file.
-(Please refer the code to see what options/hyperparameters are available)
+
 
 ## Comment
 This code may have bugs.
