@@ -29,4 +29,5 @@ Then, set paths in the codes (train.py, preprocess.py, generate.py) accordingly.
 
 ## Comment
 Contributions and comments are always welcome.
+
 I refered https://github.com/keithito/tacotron for the preprocessing code. Thank you.
