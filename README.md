@@ -11,7 +11,9 @@ https://arxiv.org/abs/1703.10135
 ## Data
 Please register to use Blizzard Challenge data set. (http://www.cstr.ed.ac.uk/projects/blizzard/)
 
-In the code, the option 'blizzard' used the data of 2013, and the option 'nancy' used the data of 2011.
+In the code, the option 'blizzard' is for the Blizzard Challenge data of 2013.
+
+The option 'etri' is for Korean TTS dataset published by 'ETRI' and you need to buy license to use it.
 
 You need to download and unzip the data from the website.
 
